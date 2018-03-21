@@ -1,0 +1,11 @@
+.A{
+    /* display:inline; */
+    width:25%; 
+    float:left;
+}
+
+.B{
+    /* display:inline; */
+    width:75%; 
+    float:left;
+}
